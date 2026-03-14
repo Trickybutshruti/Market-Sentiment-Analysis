@@ -1,4 +1,4 @@
-##Market-Sentiment-Analysis##
+#Market-Sentiment-Analysis
 
 ## Project Overview
 
@@ -130,8 +130,6 @@ Open the project notebook using Jupyter Notebook or VS Code and run all cells to
 ```
 jupyter notebook analysis.ipynb
 ```
-
----
 
 ## Project Structure
 
